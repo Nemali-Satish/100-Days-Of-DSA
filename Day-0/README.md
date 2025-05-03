@@ -100,15 +100,13 @@ int main() {
 
 ### 🔸 Types of Operators
 
-| Category            | Operators              | Example  |
-| ------------------- | ---------------------- | -------- | --- | -------------- |
-| Arithmetic          | +, -, \*, /, %         | a + b    |
-| Relational          | ==, !=, >, <, >=, <=   | a > b    |
-| Logical             | &&,                    |          | , ! | a > 0 && b > 0 |
-| Assignment          | =, +=, -=, \*=, /=, %= | a += b   |
-| Increment/Decrement | ++, --                 | a++, --b |
-
----
+| Category            | Operators              | Example        |
+| ------------------- | ---------------------- | -------------- |
+| Arithmetic          | +, -, \*, /, %         | a + b          |
+| Relational          | ==, !=, >, <, >=, <=   | a > b          |
+| Logical             | &&, \|\|, !            | a > 0 && b > 0 |
+| Assignment          | =, +=, -=, \*=, /=, %= | a += b         |
+| Increment/Decrement | ++, --                 | a++, --b       |
 
 ## 5. ✅ Conditional Statements
 
@@ -191,13 +189,6 @@ int main() {
 - Can be compiled with any C++ compiler (`g++`, `Visual Studio`, etc.)
 
 ---
-
-## ✅ How to Compile
-
-```bash
-g++ filename.cpp -o output
-./output
-```
 
 ---
 
