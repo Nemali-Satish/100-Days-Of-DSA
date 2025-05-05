@@ -18,3 +18,7 @@ int main() {
     cout << "Maximum: " << maxVal << ", Minimum: " << minVal << endl;
     return 0;
 }
+
+//
+// Created by satish on 5/4/25.
+//
